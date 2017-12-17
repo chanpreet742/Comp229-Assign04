@@ -13,6 +13,42 @@ namespace Comp229_Assign04 {
     public partial class _Default {
         
         /// <summary>
+        /// btnSerialize control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnSerialize;
+        
+        /// <summary>
+        /// btnDeserialize control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnDeserialize;
+        
+        /// <summary>
+        /// lblserial control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblserial;
+        
+        /// <summary>
+        /// lbldeserial control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbldeserial;
+        
+        /// <summary>
         /// GridView1 control.
         /// </summary>
         /// <remarks>
